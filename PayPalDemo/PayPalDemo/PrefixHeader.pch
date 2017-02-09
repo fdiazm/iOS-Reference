@@ -1,0 +1,13 @@
+//
+//  PrefixHeader.pch
+//  PayPalDemo
+//
+//  Created by Felipe Díaz on 08/02/17.
+//  Copyright © 2017 FDM. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import "PayPalMobile.h"
+
+#endif /* PrefixHeader_pch */
